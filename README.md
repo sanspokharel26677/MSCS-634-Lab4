@@ -75,6 +75,7 @@ MSCS-634-Lab4/
 ├── MSCS-634-Lab4.ipynb     # Jupyter Notebook with all steps, code, and explanations
 ├── README.md               # Project documentation
 └── MSCS-643_Lab4_Instructions.pdf  # Assignment instructions
+|-- venv # Virtual env with all dependencies
 
 ---
 
